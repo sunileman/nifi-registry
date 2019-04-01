@@ -1,4 +1,5 @@
 flows:
   846833f2-7419-45ca-8774-6ccbaf6abc49: {ver: 1, file: NiFi_SE_WorkShop.snapshot}
+  486717b6-72b0-4fdc-8476-3d81f1003db3: {ver: 1, file: java-working-build.snapshot}
 layoutVer: 1
 bucketId: 1afa453b-af4f-44a9-b02c-ee608657f394
